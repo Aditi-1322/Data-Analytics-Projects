@@ -3,9 +3,6 @@
 This repository contains a collection of data analytics projects using Python, SQL, Power BI, and Excel. Each project focuses on analyzing different datasets to extract valuable insights through data cleaning, visualization, and trend analysis.
 
 📂 Project Structure
-graphql
-Copy
-Edit
 DA-PROJECTS/
 ├── powerbi/           # Power BI dashboards and reports
 │   ├── Mobile Sales Data.xlsx
@@ -26,6 +23,8 @@ DA-PROJECTS/
     ├── Excel_Dashboard.xlsx
     ├── Raw_Data.xlsx
     └── README.md      # Details about the Excel Project
+
+
 🚀 Projects Included
 📉 Mobile Sales Analysis (Power BI)
 ✅ Created interactive dashboards to track sales trends, monthly and quarterly performance.
